@@ -1,3 +1,6 @@
+# Tutorial link
+[React JS Fetch, and Cache Data using React Query Tutorial](https://www.positronx.io/react-js-fetch-and-cache-data-using-react-query-tutorial/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
